@@ -1,9 +1,9 @@
 # Tashkent-Masjidlar
  Toshkent shahridagi barcha 50 dan ko'proq masjidlarni joylashuvi (latitude & longitude) bilan bilib oling.
 
-**Masjid joylashuvlari:**
- Masjid joylashuvlari Google Maps platformasidan olingan.
+**Joylashuvlar:**
+- Joylashuvlar _Google Maps_ platformasidan olindi.
+- Ma'lumotlar Rahmonov Bobur tomonidan JSON holatiga keltirildi.
 
-**Muallif:**
- Muallif - Rakhmonov Bobur
-__Telegram__ - https://t.me/Rakhmonov_Bobur
+**Muaif:**
+- Rahmonov Bobur - https://t.me.Rakhmonov_Bobur.
