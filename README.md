@@ -9,4 +9,4 @@ Toshkent shahridagi barcha 50 dan ko'proq masjidlarni joylashuvi (``latitude`` &
 - Ma'lumotlar Rahmonov Bobur tomonidan JSON holatiga keltirildi.
 
 **Muaif:**
-- Rahmonov Bobur - https://t.me.Rakhmonov_Bobur.
+- Rahmonov Bobur - [![Telegram](https://github.com/Bobur-777/Tashkent-Masjidlar/blob/main/Screenshoots/screenshoot-1.png)](https://t.me/Rahmonov_Bobur).
